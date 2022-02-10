@@ -1,4 +1,4 @@
-###### Favorites:
+### Favorites:
 * Food
   * dumpster tacos
   * lays chips poutine
